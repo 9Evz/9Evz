@@ -86,13 +86,11 @@ contract Evz {
 
 <br/>
 
-## `{ contribution — 3D }`
+## `{ achievements }`
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
-
-<sub>Auto-generated daily by GitHub Actions · see <code>.github/workflows/profile-3d.yml</code></sub>
+<img src="https://github-profile-trophy.vercel.app/?username=9Evz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" width="100%" />
 
 </div>
 
@@ -104,6 +102,14 @@ contract Evz {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=9Evz&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show_icons=true&include_all_commits=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=9Evz&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=6" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=9Evz&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=9Evz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="Activity graph" width="100%" />
 
 </div>
 
