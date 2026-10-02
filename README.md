@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Animasi Binary/Matrix Hijau -->
+  <img src="https://media.tenor.com/O6XU3Yx7X3wAAAAC/matrix-code.gif" alt="Green Binary Matrix Banner" width="100%" height="200" />
+</div>
+
+<div align="center">
   <a href="https://github.com/9Evz">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Husain+Ardiansyah+👋;Quality+Assurance+Engineer;Full-Stack+Web+Developer;Building+Hospital+Information+Systems;Integrating+AI+%26+Workflow+Automations" alt="Typing SVG" />
   </a>
