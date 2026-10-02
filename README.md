@@ -1,61 +1,63 @@
 <div align="center">
-  <h2>こんにちは! I'm Ahmad Husain Ardiansyah ⛩️</h2>
-  <p><em>Quality Assurance Engineer & Full-Stack Developer</em></p>
-</div>
-
-<br />
-
-<div align="center">
-  <p>
-    Building resilient web applications and robust hospital information systems. 
-    <br />Passionate about clean architecture, seamless user experiences, and exploring AI integrations.
+  <a href="https://github.com/9Evz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Husain+Ardiansyah+👋;Quality+Assurance+Engineer;Full-Stack+Web+Developer;Building+Hospital+Information+Systems;Integrating+AI+%26+Workflow+Automations" alt="Typing SVG" />
+  </a>
+  <p style="color: #8b949e;">
+    Crafting resilient software architectures, clean user interfaces, and scalable healthcare solutions.
   </p>
 </div>
 
-<br />
+<br/>
 
-### ⚡ Tech Stack & Tools
+### 👨‍💻 About Me
 
-<p align="center">
-  <!-- Frameworks & Languages -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-</p>
-<p align="center">
-  <!-- Databases & Integrations -->
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>I bridge the gap between rigorous <b>Quality Assurance</b> and robust <b>Full-Stack Development</b>. My primary focus lies in creating efficient, secure, and user-centric applications, particularly in the medical and healthcare sectors.</p>
+      <b>🚀 Current Arsenal & Focus:</b>
+      <ul>
+        <li>Developing <b>Electronic Medical Records (EMR)</b> & Hospital Management Systems.</li>
+        <li>Engineering secure backend logic and <b>Digital Signatures (TTE)</b> integrations.</li>
+        <li>Automating workflows & building AI capabilities utilizing <b>OpenAI, Gemini API, and n8n</b>.</li>
+        <li>Designing modern UI with <i>Japanese minimalist</i> & <i>glassmorphism</i> aesthetics.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <b>Tech Stack</b><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,js,vue,html,css&perline=4&theme=dark" alt="Frameworks & Languages" />
+      </a>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,sqlserver,git,github,vscode&perline=4&theme=dark" alt="DB & Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br />
+<br/>
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Menggunakan tema 'tokyonight' untuk mendukung estetika dark theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=9Evz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Evz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9Evz&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show_icons=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9Evz&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
-<br />
+<br/>
 
-### 🌐 Connect with Me
+### 🔗 Let's Connect
 
 <div align="center">
   <a href="https://ahmadhusain98.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/9Evz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Personal_Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117&color=21262D" alt="Portfolio" />
   </a>
 </div>
 
-<br />
+<br/>
 
-<hr style="border-color: #30363d;" />
-<p align="center"><small><em>Crafted with minimalism and purpose.</em></small></p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+  <p><small><i>Structured with precision. Designed for performance.</i></small></p>
+</div>
